@@ -63,3 +63,7 @@ A window real-time matplotlib figure should appear. Use the Xbox controller
 to drive the simulated robot. The real-time figure will show 
 the position and heading of the simulated robot.
 
+
+
+https://user-images.githubusercontent.com/1386542/202873209-52e192a3-4c08-4981-8875-48635442bb96.mp4
+
